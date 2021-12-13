@@ -10,7 +10,7 @@ set('application', 'perhekalenteri');
 set('repository', 'git@github.com:satugaya/perhekalenteri.git');
 
 // [Optional] Allocate tty for git clone. Default value is false.
-set('git_tty', true); 
+//set('git_tty', true); 
 
 // Shared files/dirs between deploys 
 set('shared_files', []);
