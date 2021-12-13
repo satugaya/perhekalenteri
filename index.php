@@ -9,7 +9,7 @@
     <meta charset="UTF-8">
     <title>Perhekalenteri</title>
   </head>
-  <body>
+  <body style="background-color: yellow;">
     <header>
       <h1>Perhekalenteri</h1>
     </header>
