@@ -1,0 +1,13 @@
+form {
+    color: white;
+    display: grid;
+  grid-template-columns: 1fr 2fr;
+  margin: 2rem;
+  padding: 1rem;
+  background-image:url('backgrounds/syysviljaa.jpg') ;
+  
+}
+
+h1 {
+    color:white;
+}

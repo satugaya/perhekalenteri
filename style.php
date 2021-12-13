@@ -37,6 +37,12 @@ h1 {
   margin: 0;
 }
 
+.form {
+  color: pink;
+  display: grid;
+  grid-template-columns: 4fr 4fr;
+}
+
 table {
   width: 100%;
   border-collapse: collapse;
@@ -86,5 +92,5 @@ tr {
 
 .footer {
   text-align: right;
-  font-size: 70%;
+  font-size: 80%;
 }

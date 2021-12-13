@@ -8,14 +8,17 @@
   <head>
     <meta charset="UTF-8">
     <title>Perhekalenteri</title>
+    <link href="styles.css" rel="stylesheet">
   </head>
-  <body style="background-color: yellow;">
-    <header>
+  <body >
+    <header style="background-image: url('backgrounds/dyynit.jpg'); background-size: 200px 40px;">
       <h1>Perhekalenteri</h1>
     </header>
     <section>
 
-      <form action="kalenteri.php" method="GET" target="_blank">
+      <form style=""
+      
+      action="kalenteri.php" method="GET" target="_blank">
 
         Vuosi: <input type="number" name="year" value="<?php echo date("Y"); ?>"><br>
 
