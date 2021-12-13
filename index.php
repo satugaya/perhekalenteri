@@ -54,7 +54,7 @@
 
       </form>
     </section>
-    <footer>
+    <footer style="font-size: 0.8rem;">
       <hr>
       <div>perhekalenteri by Satunen</div>
     </footer>
